@@ -1,0 +1,5 @@
+{
+  "name":"device",
+  "source":".",
+  "file_list":["Accelerator.ts"]
+}
